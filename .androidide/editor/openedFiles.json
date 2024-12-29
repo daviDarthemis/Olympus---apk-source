@@ -59,7 +59,37 @@
           "line": 0
         }
       }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Olympus Rpcs3/README.md",
+      "selection": {
+        "end": {
+          "column": 13,
+          "index": 13,
+          "line": 0
+        },
+        "start": {
+          "column": 13,
+          "index": 13,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Olympus Rpcs3/.gitignore",
+      "selection": {
+        "end": {
+          "column": 18,
+          "index": 1462,
+          "line": 85
+        },
+        "start": {
+          "column": 18,
+          "index": 1462,
+          "line": 85
+        }
+      }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Olympus Rpcs3/app/src/main/java/com/olympus/app/ui/main/MainActivity.kt"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Olympus Rpcs3/.gitignore"
 }
