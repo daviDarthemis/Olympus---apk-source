@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="Theme.Olympus" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Main theme colors -->
+        <item name="colorPrimary">@color/olympus_primary</item>
+        <item name="colorOnPrimary">@color/olympus_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/olympus_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/olympus_onPrimaryContainer</item>
+        <item name="colorSecondary">@color/olympus_secondary</item>
+        <item name="colorOnSecondary">@color/olympus_onSecondary</item>
+        <item name="colorSecondaryContainer">@color/olympus_secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/olympus_onSecondaryContainer</item>
+        <item name="colorTertiary">@color/olympus_tertiary</item>
+        <item name="colorOnTertiary">@color/olympus_onTertiary</item>
+        <item name="colorTertiaryContainer">@color/olympus_tertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/olympus_onTertiaryContainer</item>
+        <item name="colorError">@color/olympus_error</item>
+        <item name="colorErrorContainer">@color/olympus_errorContainer</item>
+        <item name="colorOnError">@color/olympus_onError</item>
+        <item name="colorOnErrorContainer">@color/olympus_onErrorContainer</item>
+        <item name="android:colorBackground">@color/olympus_background</item>
+        <item name="colorOnBackground">@color/olympus_onBackground</item>
+        <item name="colorSurface">@color/olympus_surface</item>
+        <item name="colorOnSurface">@color/olympus_onSurface</item>
+        <item name="colorSurfaceVariant">@color/olympus_surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/olympus_onSurfaceVariant</item>
+        <item name="colorOutline">@color/olympus_outline</item>
+        <item name="colorOnSurfaceInverse">@color/olympus_inverseOnSurface</item>
+        <item name="colorSurfaceInverse">@color/olympus_inverseSurface</item>
+        <item name="colorPrimaryInverse">@color/olympus_inversePrimary</item>
+
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+    </style>
+    
+    <style name="Theme.Olympus.Base" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Base theme colors -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <!-- Trick for API >= 29 specific changes -->
+    <style name="Theme.Olympus.Main" parent="Theme.Olympus" />
+
+</resources>

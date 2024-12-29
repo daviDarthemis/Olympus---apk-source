@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <!-- Olympus Colors -->
+    <color name="olympus_purple">#F3E5F5</color>
+    <color name="olympus_primary">#154FE2</color>
+    <color name="olympus_onPrimary">#FFFFFF</color>
+    <color name="olympus_primaryContainer">#DCE1FF</color>
+    <color name="olympus_onPrimaryContainer">#001551</color>
+    <color name="olympus_secondary">#595D72</color>
+    <color name="olympus_onSecondary">#FFFFFF</color>
+    <color name="olympus_secondaryContainer">#DEE1F9</color>
+    <color name="olympus_onSecondaryContainer">#161B2C</color>
+    <color name="olympus_tertiary">#75546F</color>
+    <color name="olympus_onTertiary">#FFFFFF</color>
+    <color name="olympus_tertiaryContainer">#FFD7F5</color>
+    <color name="olympus_onTertiaryContainer">#2C1229</color>
+    <color name="olympus_error">#BA1A1A</color>
+    <color name="olympus_errorContainer">#FFDAD6</color>
+    <color name="olympus_onError">#FFFFFF</color>
+    <color name="olympus_onErrorContainer">#410002</color>
+    <color name="olympus_background">#FEFBFF</color>
+    <color name="olympus_onBackground">#1B1B1F</color>
+    <color name="olympus_surface">#FEFBFF</color>
+    <color name="olympus_onSurface">#1B1B1F</color>
+    <color name="olympus_surfaceVariant">#E2E1EC</color>
+    <color name="olympus_onSurfaceVariant">#45464F</color>
+    <color name="olympus_outline">#767680</color>
+    <color name="olympus_inverseOnSurface">#F2F0F4</color>
+    <color name="olympus_inverseSurface">#303034</color>
+    <color name="olympus_inversePrimary">#B7C4FF</color>
+    <color name="olympus_shadow">#000000</color>
+    <color name="olympus_surfaceTint">#154FE2</color>
+    <color name="olympus_outlineVariant">#C6C5D0</color>
+    <color name="olympus_scrim">#000000</color>
+</resources>
