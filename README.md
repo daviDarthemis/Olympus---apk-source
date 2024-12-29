@@ -1,2 +1,2 @@
-# Olympus---apk-source
-Olympus App Source - Managed by MCFLY
+# Olympus apk source
+Olympus App Source - Managed by JoseG-asm
