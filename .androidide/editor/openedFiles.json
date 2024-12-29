@@ -1,95 +1,20 @@
 {
   "allFiles": [
     {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Olympus Rpcs3/app/build.gradle.kts",
-      "selection": {
-        "end": {
-          "column": 0,
-          "index": 0,
-          "line": 0
-        },
-        "start": {
-          "column": 0,
-          "index": 0,
-          "line": 0
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Olympus Rpcs3/app/src/main/AndroidManifest.xml",
-      "selection": {
-        "end": {
-          "column": 11,
-          "index": 830,
-          "line": 23
-        },
-        "start": {
-          "column": 11,
-          "index": 830,
-          "line": 23
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Olympus Rpcs3/app/src/main/java/com/olympus/app/ui/main/MainActivity.kt",
+      "file": "/storage/emulated/0/AndroidIDEProjects/Olympus Rpcs3/app/src/main/java/com/olympus/app/emulation/EmulationSurfaceView.kt",
       "selection": {
         "end": {
           "column": 4,
-          "index": 372,
-          "line": 16
+          "index": 1049,
+          "line": 33
         },
         "start": {
           "column": 4,
-          "index": 372,
-          "line": 16
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Olympus Rpcs3/app/src/main/java/com/olympus/app/OlympusApplication.kt",
-      "selection": {
-        "end": {
-          "column": 23,
-          "index": 23,
-          "line": 0
-        },
-        "start": {
-          "column": 23,
-          "index": 23,
-          "line": 0
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Olympus Rpcs3/README.md",
-      "selection": {
-        "end": {
-          "column": 13,
-          "index": 13,
-          "line": 0
-        },
-        "start": {
-          "column": 13,
-          "index": 13,
-          "line": 0
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Olympus Rpcs3/.gitignore",
-      "selection": {
-        "end": {
-          "column": 18,
-          "index": 1462,
-          "line": 85
-        },
-        "start": {
-          "column": 18,
-          "index": 1462,
-          "line": 85
+          "index": 1049,
+          "line": 33
         }
       }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Olympus Rpcs3/.gitignore"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Olympus Rpcs3/app/src/main/java/com/olympus/app/emulation/EmulationSurfaceView.kt"
 }
